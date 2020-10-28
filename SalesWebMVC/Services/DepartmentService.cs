@@ -1,4 +1,4 @@
-﻿using Microsoft.AspNetCore.Identity.UI.Pages.Internal.Account;
+﻿using SalesWebMVC.Migrations;
 using SalesWebMVC.Models;
 using System;
 using System.Collections.Generic;
@@ -7,20 +7,19 @@ using System.Threading.Tasks;
 
 namespace SalesWebMVC.Services
 {
-    public class SellerService
+    public class DepartmentService
     {
         private readonly SalesWebMVCContext _context;
 
-        public SellerService(SalesWebMVCContext context)
+        public DepartmentService(SalesWebMVCContext context)
         {
             _context = context;
         }
-
-        public List<Seller> FindAll()
+        public List<Department> FindAll()
         {
-            return _context.Seller.ToList(); //pega em todos os campos da tabela Seller e converte para uma lista
+            return _context.Department.OrderBy(x => x.Name).ToList();
         }
-        public void Insert(Seller obj)
+        public void Insert(Department obj)
         {
             _context.Add(obj);
             _context.SaveChanges();
