@@ -1,4 +1,5 @@
-﻿using SalesWebMVC.Models;
+﻿using Microsoft.AspNetCore.Identity.UI.Pages.Internal.Account;
+using SalesWebMVC.Models;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,6 +19,11 @@ namespace SalesWebMVC.Services
         public List<Seller> FindAll()
         {
             return _context.Seller.ToList(); //pega em todos os campos da tabela Seller e converte para uma lista
+        }
+        public void Insert(Seller obj)
+        {
+            _context.Add(obj);
+            _context.SaveChanges();
         }
     }
 }

@@ -42,3 +42,4 @@ C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcorea
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Departments\Index.cshtml.g.cs
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csproj.CoreCompileInputs.cache
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Index.cshtml.g.cs
+C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\Razor\Views\Sellers\Create.cshtml.g.cs
