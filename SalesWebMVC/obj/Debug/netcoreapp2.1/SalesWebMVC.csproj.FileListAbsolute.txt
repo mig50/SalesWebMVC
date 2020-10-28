@@ -8,7 +8,6 @@ C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcorea
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.pdb
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.dll
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\bin\Debug\netcoreapp2.1\SalesWebMVC.Views.pdb
-C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.csprojAssemblyReference.cache
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfoInputs.cache
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.AssemblyInfo.cs
 C:\Users\Miguel Carvalho\source\repos\SalesWebMVC\SalesWebMVC\obj\Debug\netcoreapp2.1\SalesWebMVC.RazorAssemblyInfo.cache
